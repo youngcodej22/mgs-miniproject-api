@@ -1,0 +1,22 @@
+{
+  "name": "mgs-miniproject-api",
+  "version": "1.0.0",
+  "description": "MGS Team 8 / JS mini project - API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngcodej22/mgs-miniproject-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngcodej22/mgs-miniproject-api/issues"
+  },
+  "homepage": "https://github.com/youngcodej22/mgs-miniproject-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
