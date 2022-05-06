@@ -4,7 +4,8 @@
   "description": "MGS Team 8 / JS mini project - API",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "deploy": "gh-pages -d build" 
   },
   "repository": {
     "type": "git",
@@ -15,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/youngcodej22/mgs-miniproject-api/issues"
   },
-  "homepage": "https://github.com/youngcodej22/mgs-miniproject-api#readme",
+  "homepage": "https://youngcodej22.github.io/mgs-miniproject-api/",
   "dependencies": {
     "json-server": "^0.17.0"
   }
