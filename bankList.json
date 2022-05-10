@@ -6,13 +6,13 @@
   },
   "subAccounts": [
     {
-      "firstAccount" : {
+      "account" : {
         "_id": "1114a8abe9d1c2db0355c706",
         "index": 0,
         "name": "여행 가자!",
         "deposit": 842200
       },
-      "secondAccount" : {
+      "account" : {
         "_id": "1133a8abe9d1c7db0355c705",
         "index": 1,
         "name": "냉장고 사기",
