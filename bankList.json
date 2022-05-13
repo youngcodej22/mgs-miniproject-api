@@ -1,23 +1,33 @@
 {
-  "mainAccount":{
-    "_id": "2222a8abe9d1c2db0355c706",
-    "index": 0,
-    "deposit": 10000000
-  },
+  "mainAccount": [
+    {
+      "_id": "3222a8abe9d1c2db0355c706",
+      "index": 0,
+      "deposit": 10000000
+    },
+    {
+      "_id": "2221a8abe9d1c2db0355c111",
+      "index": 1,
+      "deposit": 120000
+    },
+    {
+      "_id": "2256a8abe9d1c2db0355c233",
+      "index": 2,
+      "deposit": 4400000
+    }
+  ],
   "subAccounts": [
     {
-      "account" : {
-        "_id": "1114a8abe9d1c2db0355c706",
-        "index": 0,
-        "name": "여행 가자!",
-        "deposit": 842200
-      },
-      "account" : {
-        "_id": "1133a8abe9d1c7db0355c705",
-        "index": 1,
-        "name": "냉장고 사기",
-        "deposit": 1200000
-      }
+      "_id": "1114a8abe9d1c2db0355c706",
+      "index": 0,
+      "name": "여행 가자!",
+      "deposit": 842200
+    },
+    {
+      "_id": "1133a8abe9d1c7db0355c705",
+      "index": 1,
+      "name": "냉장고 사기",
+      "deposit": 1200000
     }
   ],
   "bankList": [
