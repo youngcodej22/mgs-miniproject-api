@@ -3,16 +3,19 @@
     {
       "_id": "3222a8abe9d1c2db0355c706",
       "index": 0,
+      "title": "생활비",
       "deposit": 10000000
     },
     {
       "_id": "2221a8abe9d1c2db0355c111",
       "index": 1,
+      "title": "의민이 용돈",
       "deposit": 120000
     },
     {
       "_id": "2256a8abe9d1c2db0355c233",
       "index": 2,
+      "title": "할머니 계좌",
       "deposit": 4400000
     }
   ],
